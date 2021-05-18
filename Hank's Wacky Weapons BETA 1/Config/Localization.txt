@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+drPete,items,"Food/Cooking,CFDrink/Cooking",,,"Dr. Pete"
+drPeteDesc,items,"Food/Cooking,CFDrink/Cooking",,,"The Best Drink Around!"
