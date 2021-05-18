@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<xml>
+  <ModInfo>
+    <Name value="Hank's Vehicle Tweaks!"/>
+    <Description value="A mod that adjusts the speed and health of vehicles to be much faster but also more dangerous!"/>
+    <Author value="HankTheTank"/>
+    <Version value ="A19.3"/>
+  </ModInfo>
+</xml>
